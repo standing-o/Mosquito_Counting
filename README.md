@@ -10,11 +10,11 @@ it is necessary to predict the number of mosquito.
 [[Report]]()
 
 ## Dataset
-1. Independent Variable (Tempurature, Humidity)
-- https://data.kma.go.kr/data/grnd/selectAsosRltmList.do?pgmNo=36
-- https://data.kma.go.kr/stcs/grnd/grndTaList.do?pgmNo=70
-2. Dependent Variable (# mosquito)
-- http://news.seoul.go.kr/welfare/mos_dmsnblt2
+1. Independent Variable (Tempurature, Humidity)  
+  https://data.kma.go.kr/data/grnd/selectAsosRltmList.do?pgmNo=36  
+  https://data.kma.go.kr/stcs/grnd/grndTaList.do?pgmNo=70  
+2. Dependent Variable (# mosquito)  
+  http://news.seoul.go.kr/welfare/mos_dmsnblt2  
 
 ## Architecture
 1. Multiple Linear Regression
