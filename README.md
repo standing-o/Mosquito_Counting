@@ -7,7 +7,7 @@
 it is necessary to predict the number of mosquito.
 
 ## Project Reprot
-[[Report]]()
+[[Report]](https://github.com/OH-Seoyoung/Prediction_of_the_number_of_Mosquito_with_Regression/blob/master/%5B%EC%A4%91%EA%B0%84%EA%B3%A0%EC%82%AC%20%EB%8C%80%EC%B2%B4%EA%B3%BC%EC%A0%9C%5D%202017010698%20%EC%88%98%ED%95%99%EA%B3%BC%20%EC%98%A4%EC%84%9C%EC%98%81.pdf)
 
 ## Dataset
 1. Independent Variable (Tempurature, Humidity)  
