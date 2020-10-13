@@ -16,12 +16,16 @@ it is necessary to predict the number of mosquito.
   
 ## Results
 #### 1. Multiple Linear Regression  
-  Train MAE : 769, Test MAE : 805  
-  Train R2-Score : 0.46, Test R2-Score : 0.44  
-
+|---|MAE|R2-Score|
+|------|---|---|
+|Train|769|0.46|
+|Test|805|0.44|
+  
 #### 2. Polynomial Regression  
-  Train MAE : 715, Test MAE : 828  
-  Train R2-Score : 0.55, Test R2-Score : 0.46  
+|---|MAE|R2-Score|
+|------|---|---|
+|Train|715|0.55|
+|Test|828|0.46|
   
 ## Reference
 ```
