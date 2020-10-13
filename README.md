@@ -9,17 +9,17 @@ it is necessary to predict the number of mosquito.
 [[Report]](https://github.com/OH-Seoyoung/Prediction_of_the_number_of_Mosquito_with_Regression/blob/master/%5B%EC%A4%91%EA%B0%84%EA%B3%A0%EC%82%AC%20%EB%8C%80%EC%B2%B4%EA%B3%BC%EC%A0%9C%5D%202017010698%20%EC%88%98%ED%95%99%EA%B3%BC%20%EC%98%A4%EC%84%9C%EC%98%81.pdf)  
 
 ## Dataset
-1. Independent Variable   
+#### Independent Variable   
 - Tempurature, Humidity  
-2. Dependent Variable  
+#### Dependent Variable  
 - The number of mosquito  
   
 ## Results
-1. Multiple Linear Regression  
+#### Multiple Linear Regression  
   Train MAE : 769, Test MAE : 805  
   Train R2-Score : 0.46, Test R2-Score : 0.44  
 
-2. Polynomial Regression  
+#### Polynomial Regression  
   Train MAE : 715, Test MAE : 828  
   Train R2-Score : 0.55, Test R2-Score : 0.46  
   
