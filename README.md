@@ -13,6 +13,12 @@ it is necessary to predict the number of mosquito.
 - Tempurature, Humidity  
 #### Dependent Variable  
 - The number of mosquito  
+
+```
+[1] https://data.kma.go.kr/data/grnd/selectAsosRltmList.do?pgmNo=36  
+[2] https://data.kma.go.kr/stcs/grnd/grndTaList.do?pgmNo=70 
+[3] http://news.seoul.go.kr/welfare/mos_dmsnblt2  
+```
   
 ## Results
 #### 1. Multiple Linear Regression  
@@ -26,11 +32,4 @@ it is necessary to predict the number of mosquito.
 |------|---|---|
 |Train|715|0.55|
 |Test|828|0.46|
-  
-## Reference
-```
-[1] https://data.kma.go.kr/data/grnd/selectAsosRltmList.do?pgmNo=36  
-[2] https://data.kma.go.kr/stcs/grnd/grndTaList.do?pgmNo=70 
-[3] http://news.seoul.go.kr/welfare/mos_dmsnblt2  
-```
-  
+
