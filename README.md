@@ -1,4 +1,4 @@
-# Prediction of # Mosquito with Regression
+# Prediction of the number of Mosquito with Regression
 - Prediction of the number of mosquito with weather dataset
 - Multiple Linear Regression, Polynomial Regression
 - Jun. 11, 2020
