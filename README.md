@@ -1,4 +1,4 @@
-# Prediction of the number of Mosquito with Regression
+# Mosquito Counting
 - Prediction of the number of mosquito with weather dataset
 - Multiple Linear Regression, Polynomial Regression
 - Jun. 11, 2020
@@ -7,7 +7,7 @@
 - Mosquitoes serve as a medium for various diseases. As the number of people infected with these diseases is on a steady rise, 
 it is necessary to predict the number of mosquito.
 
-| [Report](https://github.com/OH-Seoyoung/Prediction_of_the_number_of_Mosquito_with_Regression/blob/master/Report.pdf) |  
+| [Report](https://github.com/OH-Seoyoung/Mosquito_Counting/blob/master/Report.pdf) |  
 
 ## Dataset
 #### Independent Variable   
