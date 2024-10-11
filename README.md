@@ -7,7 +7,7 @@
 - Mosquitoes serve as a medium for various diseases. As the number of people infected with these diseases is on a steady rise, 
 it is necessary to predict the number of mosquito.
 
-| [Report](https://github.com/OH-Seoyoung/Mosquito_Counting/blob/master/Report.pdf) |  
+| [Report](https://github.com/standing-o/Mosquito_Counting/blob/master/Report.pdf) |  
 
 ## Dataset
 #### Independent Variable   
